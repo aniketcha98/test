@@ -26,7 +26,7 @@
             "enabled": false
           },
           "partitionSelectionMethod": "ALL",
-          "latestPartitionsN": 1,
+          "latestPartitionsN": 2,
           "ordering": {
             "enabled": false,
             "rules": []
